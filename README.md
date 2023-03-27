@@ -1,0 +1,2 @@
+# react_native_CRUD_Jsonplaceholder
+Complete react native CRUD Jsonplaceholder
